@@ -10,6 +10,4 @@ AutoClicker es una aplicación diseñada para automatizar clics repetitivos en u
 - Centrar el cursor automaticamente luego de 10 iteraciones
 
 ** Capturas **
-
-2024/03/20
 ![](https://raw.githubusercontent.com/GuillermoDominguez41/AutoClicker/master/AutoClickerV1/Imagenes/Captura%20de%20pantalla%202024-03-20%20211021.png?token=GHSAT0AAAAAACP4GT7I7SUBICWI7JVEESOWZP3QAIA)
