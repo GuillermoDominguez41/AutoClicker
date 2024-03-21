@@ -1,7 +1,6 @@
 ## AutoClicker (C#)
 
-**Descripción**
-AutoClicker es una aplicación diseñada para automatizar clics repetitivos en una ubicación específica de la pantalla. Con la capacidad de programar el intervalo de tiempo entre clics en minutos, los usuarios pueden iniciar y detener fácilmente el proceso.
+Es una aplicación diseñada para automatizar clics repetitivos en una ubicación específica de la pantalla. Con la capacidad de programar el intervalo de tiempo entre clics en minutos, los usuarios pueden iniciar y detener fácilmente el proceso.
 
 **Funcionalidades**
 - Definicion de intervalo entre clics
