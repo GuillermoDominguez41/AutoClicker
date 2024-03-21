@@ -12,4 +12,4 @@ AutoClicker es una aplicación diseñada para automatizar clics repetitivos en u
 ** Capturas **
 
 2024/03/20
-![]([https://raw.githubusercontent.com/GuillermoDominguez41/AutoClicker/master/AutoClickerV1/Imagenes/Captura%20de%20pantalla%202024-03-20%20211021.png?token=GHSAT0AAAAAACP4GT7JXAMWERFZI4BQSIXUZP3PXFA](https://raw.githubusercontent.com/GuillermoDominguez41/AutoClicker/master/AutoClickerV1/Imagenes/Captura%20de%20pantalla%202024-03-20%20211021.png?token=GHSAT0AAAAAACP4GT7IPI4X33CC3UE2GPVWZP3P6VA)https://raw.githubusercontent.com/GuillermoDominguez41/AutoClicker/master/AutoClickerV1/Imagenes/Captura%20de%20pantalla%202024-03-20%20211021.png?token=GHSAT0AAAAAACP4GT7IPI4X33CC3UE2GPVWZP3P6VA)
+![](https://raw.githubusercontent.com/GuillermoDominguez41/AutoClicker/master/AutoClickerV1/Imagenes/Captura%20de%20pantalla%202024-03-20%20211021.png?token=GHSAT0AAAAAACP4GT7I7SUBICWI7JVEESOWZP3QAIA)
